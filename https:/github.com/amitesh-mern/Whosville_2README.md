@@ -1,1 +1,0 @@
-Amitesh Whosville App
