@@ -4,7 +4,7 @@
 
 Below is a list of versions of our app that are currently
 supported. Our sincerest apologies but in order to better
-serve you, the residents of Whosville we require that all
+serve you, the residents of Whosville, we require that all
 residents use a supported version of the app.
 
 | Version | Supported          |
