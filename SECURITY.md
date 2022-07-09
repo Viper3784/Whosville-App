@@ -26,10 +26,8 @@ This is your app to keep you informed of public issues in Whosville.
 From town government to town information and emergency services and everything in between this app will 
 help you find what you need. 
 
-We the developers of this app understand that your information is sensitive and yours. We will use the 
-best security practices to ensure the safety of your information while using our app. In addition our 
-partners will also safeguard your information against predators. We will use many of the same features 
-that they use. In addition when processing your payment method you can rest assured that we strictly
+We, the developers, of this app understand that your information is sensitive and yours. We will use the 
+best security practices to ensure the safety of your information while using our app. When processing your payment method you can rest assured that we strictly
 abide by the principles and standards of PCI DSS. All other information will be safeguarded in accordance 
 to NIST. All of this is to keep your information safe to you. If you would like to read what these standards 
 are in detail the links to these sets of standards are below. We truly believe you will have a great 
